@@ -14,3 +14,8 @@ This is where you add the instructions
 
 ## How to contribute
 i add the contribution
+
+## Add staging only
+add this to staging  area
+so run "Add" 
+
