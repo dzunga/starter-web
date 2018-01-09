@@ -5,13 +5,18 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Sample website with plenty of files for demos
-i
-##Deployment
+for learning git hub from udemy coursei
+##Deploymenti
+how do yo deploy? 
 
 ## Instructions 
-
+ithis is wher eyou add the instructions
 ## How to contribute 
+iadd the contribution
 
 
+## Ffeedback
+send email to someone@yahoo.com
 
-## Ffeedback 
+## No add 
+this text to show commit has not been added 
