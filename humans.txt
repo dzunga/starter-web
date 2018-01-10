@@ -3,8 +3,12 @@
 
 # TEAM
 
+<<<<<<< HEAD
 i	iMACCA
 	macca@yahoo.com
+=======
+
+>>>>>>> newbranch
 # THANKS
 
     <name>
