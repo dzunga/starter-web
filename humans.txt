@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+i	iMACCA
+	macca@yahoo.com
 # THANKS
 
     <name>
