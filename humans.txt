@@ -3,12 +3,12 @@
 
 # TEAM
 
-<<<<<<< HEAD
-i	iMACCA
+	iMACCA
 	macca@yahoo.com
-=======
 
->>>>>>> newbranch
+# Feature 1 : add stuff here
+
+
 # THANKS
 
     <name>
