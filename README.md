@@ -11,6 +11,8 @@ for learning git hub from udemy coursei
 
 add this to remote repo
 
+## how to contribute
+please for this repo  and issue pull for review
 
 ## add this to Repo(local) 
 this is added to Repo(local) .
