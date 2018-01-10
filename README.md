@@ -20,3 +20,7 @@ this is added only to staging
 
 ## add to working directory only. 
 this should only appear as modified, and not  anywhere else
+
+## COPYRIGHT
+adding copyright in readme
+
