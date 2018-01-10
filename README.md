@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-add this line for rebase example inside MASTER
+add this line for rebase example inside MASTER 
+adding line in f1  after rebase
 ## Purpose
 
 Sample website with plenty of files for demos
