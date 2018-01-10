@@ -14,3 +14,9 @@ add this to remote repo
 
 ## add this to Repo(local) 
 this is added to Repo(local) .
+
+## add to staging only
+this is added only to staging 
+
+## add to working directory only. 
+this should only appear as modified, and not  anywhere else
