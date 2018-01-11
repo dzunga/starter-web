@@ -5,7 +5,7 @@
 
 	iMACCA
 	macca@yahoo.com
-        adding text for test1 branch to see how branch graph displayed
+        adding text for f2 branch to see how branch graph displayed
 # Feature 1 : add stuff here
 
 
