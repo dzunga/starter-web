@@ -6,6 +6,7 @@
 	iMACCA
 	macca@yahoo.com
         adding text for f2 branch to see how branch graph displayed
+	adding this in f2, when no changes on master change :
 # Feature 1 : add stuff here
 
 
