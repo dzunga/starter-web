@@ -36,6 +36,8 @@
 	11.05pm mb branch update
 
         1.04 pm mb branch update
+
+	10.45pm mb branch add tag 1.0
 # Feature 1 : add stuff here
 
 
